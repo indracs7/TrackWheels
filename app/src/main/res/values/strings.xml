@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TrackWheels</string>
+    <string name="MAPBOX_API_KEY">pk.eyJ1Ijoia3Jpc2huYWJvc2UwMiIsImEiOiJjanJ3MzFsa20wNTUxNGFvYzVsZTUyOW1yIn0.PN3eD9jstiAOGlg4d02GdQ</string>
 </resources>
