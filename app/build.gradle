@@ -22,9 +22,8 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.0.0-beta01'
+    implementation'com.google.android.material:material:1.0.0-beta01'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.2'
-    implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-locationlayer:0.6.0'
-    implementation 'com.mapbox.mapboxsdk:mapbox-android-navigation:0.28.0'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:7.1.1'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-core:1.1.0'
 
